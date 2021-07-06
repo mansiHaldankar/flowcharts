@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-06T11:23:42.542Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="ToGkuXAQz7XimmMpNrGf" version="14.8.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-07-06T11:24:51.621Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="2EU84Hqlpg-uapi5_wG_" version="14.8.2" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -134,6 +134,12 @@
         </mxCell>
         <mxCell id="aT9djDRyr5HYvfvGy7E5-0" value="handleLogin()" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="4Z9IFD3o3Ur7ToQ7rkEp-1">
           <mxGeometry x="310" y="20" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aT9djDRyr5HYvfvGy7E5-1" value="Action Creator" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontColor=#000000;" vertex="1" parent="4Z9IFD3o3Ur7ToQ7rkEp-1">
+          <mxGeometry x="430" y="10" width="260" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="aT9djDRyr5HYvfvGy7E5-2" value="GET_USER_LOGIN_PENDING" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="aT9djDRyr5HYvfvGy7E5-1">
+          <mxGeometry y="26" width="260" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
