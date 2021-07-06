@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-06T11:21:30.238Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="ze8aR5J2sZ9LmHLmQwuQ" version="14.8.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-07-06T11:22:21.185Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="v4tx1-fZLgcIhCpTc1BE" version="14.8.2" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -112,6 +112,12 @@
         </mxCell>
         <mxCell id="40KwFuZ0i_5s54Ew8biL-8" value="Login.js" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="a_ZLF8ntEB-jfTKbZqZb-1">
           <mxGeometry x="10" y="380" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7bGZXtStrGElKqKOTRk4-0" value="checkAuth()" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="a_ZLF8ntEB-jfTKbZqZb-1">
+          <mxGeometry x="500" y="120" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7bGZXtStrGElKqKOTRk4-2" value="Response Json" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="a_ZLF8ntEB-jfTKbZqZb-1">
+          <mxGeometry x="520" y="170" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
