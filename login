@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-06T13:24:14.595Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="INco1DP16uNOps6WcdEh" version="14.8.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-07-06T13:38:28.880Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="kmNNpIue2owdA0-XSlBH" version="14.8.2" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -120,7 +120,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ppuOKBIaoHJNXsDW9zBq" name="Page-3">
-    <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1632" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="4Z9IFD3o3Ur7ToQ7rkEp-0" />
         <mxCell id="4Z9IFD3o3Ur7ToQ7rkEp-1" parent="4Z9IFD3o3Ur7ToQ7rkEp-0" />
@@ -204,9 +204,9 @@
         <mxCell id="AZT7yd181mJH163zDIGH-47" value="getAuthPending()" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontSize=12;strokeWidth=1;" vertex="1" parent="4Z9IFD3o3Ur7ToQ7rkEp-1">
           <mxGeometry x="420" y="420" width="290" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AZT7yd181mJH163zDIGH-52" style="edgeStyle=elbowEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;fontSize=12;entryX=0.396;entryY=0.046;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="4Z9IFD3o3Ur7ToQ7rkEp-1" source="AZT7yd181mJH163zDIGH-50" target="AZT7yd181mJH163zDIGH-53">
+        <mxCell id="AZT7yd181mJH163zDIGH-52" style="edgeStyle=elbowEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;fontSize=12;" edge="1" parent="4Z9IFD3o3Ur7ToQ7rkEp-1" source="AZT7yd181mJH163zDIGH-50">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="165" y="540" as="targetPoint" />
+            <mxPoint x="165" y="536" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AZT7yd181mJH163zDIGH-50" value="Action Creator (userActions.js)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="4Z9IFD3o3Ur7ToQ7rkEp-1">
@@ -216,16 +216,22 @@
           <mxGeometry y="26" width="190" height="34" as="geometry" />
         </mxCell>
         <mxCell id="AZT7yd181mJH163zDIGH-53" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontSize=12;strokeColor=#6C8EBF;strokeWidth=1;fillColor=#F2F2F2;" vertex="1" parent="4Z9IFD3o3Ur7ToQ7rkEp-1">
-          <mxGeometry x="30" y="530" width="340" height="130" as="geometry" />
+          <mxGeometry x="-10" y="545" width="340" height="185" as="geometry" />
         </mxCell>
         <mxCell id="AZT7yd181mJH163zDIGH-54" value="checkAuth" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=12;" vertex="1" parent="4Z9IFD3o3Ur7ToQ7rkEp-1">
-          <mxGeometry x="145" y="540" width="40" height="20" as="geometry" />
+          <mxGeometry x="120" y="550" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AZT7yd181mJH163zDIGH-55" value="&lt;div style=&quot;font-family: &amp;#34;consolas&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 14px ; line-height: 19px&quot;&gt;&lt;font color=&quot;#0f0f0f&quot; style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;checkAuth()&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-family: &amp;#34;consolas&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 14px ; line-height: 19px&quot;&gt;&lt;font color=&quot;#0f0f0f&quot; style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-family: &amp;#34;consolas&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 14px ; line-height: 19px&quot;&gt;&lt;span style=&quot;color: rgb(255 , 255 , 255) ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;lucida console&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 12px ; text-align: left&quot;&gt;https://localhost:3000/lh/is_session_valid/&lt;/span&gt;&lt;font color=&quot;#0f0f0f&quot; style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontSize=12;strokeWidth=1;strokeColor=#FFFFFF;" vertex="1" parent="4Z9IFD3o3Ur7ToQ7rkEp-1">
-          <mxGeometry x="40" y="560" width="310" height="60" as="geometry" />
+          <mxGeometry x="5" y="580" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AZT7yd181mJH163zDIGH-60" style="edgeStyle=elbowEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="4Z9IFD3o3Ur7ToQ7rkEp-1" source="AZT7yd181mJH163zDIGH-56" target="AZT7yd181mJH163zDIGH-59">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AZT7yd181mJH163zDIGH-56" value="&lt;span style=&quot;font-family: &amp;#34;consolas&amp;#34; , &amp;#34;lucida console&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; display: inline ; float: none&quot;&gt;https://localhost:3000/lh/is_session_valid/&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=12;fillColor=#DAE8FC;" vertex="1" parent="4Z9IFD3o3Ur7ToQ7rkEp-1">
-          <mxGeometry x="45" y="580" width="300" height="30" as="geometry" />
+          <mxGeometry x="10" y="600" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AZT7yd181mJH163zDIGH-59" value="&lt;div style=&quot;font-family: &amp;#34;consolas&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 14px ; line-height: 19px&quot;&gt;&lt;font color=&quot;#0f0f0f&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;if(auth) =&amp;gt; getUser()&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontSize=12;strokeWidth=1;strokeColor=#FFFFFF;" vertex="1" parent="4Z9IFD3o3Ur7ToQ7rkEp-1">
+          <mxGeometry x="5" y="660" width="310" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
