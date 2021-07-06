@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-06T13:16:39.744Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="XXinMjNaTZhcOYyIzrzX" version="14.8.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-07-06T13:17:29.524Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="y60FjC_EOmyo_Fy7vO55" version="14.8.2" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -193,8 +193,19 @@
         <mxCell id="AZT7yd181mJH163zDIGH-46" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;postUserLogin()&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=12;" vertex="1" parent="4Z9IFD3o3Ur7ToQ7rkEp-1">
           <mxGeometry x="530" y="330" width="110" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="AZT7yd181mJH163zDIGH-48" style="edgeStyle=elbowEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;fontSize=12;" edge="1" parent="4Z9IFD3o3Ur7ToQ7rkEp-1" source="AZT7yd181mJH163zDIGH-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="AZT7yd181mJH163zDIGH-47" value="getAuthPending" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontSize=12;strokeWidth=1;" vertex="1" parent="4Z9IFD3o3Ur7ToQ7rkEp-1">
           <mxGeometry x="420" y="420" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AZT7yd181mJH163zDIGH-50" value="Action Creator (userActions.js)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="4Z9IFD3o3Ur7ToQ7rkEp-1">
+          <mxGeometry x="10" y="420" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AZT7yd181mJH163zDIGH-51" value="GET_USER_LOGIN_PENDING" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="AZT7yd181mJH163zDIGH-50">
+          <mxGeometry y="26" width="260" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
