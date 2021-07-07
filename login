@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-07T10:42:17.172Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="DjIxCymJHoAMR5CiXrPI" version="14.8.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-07-07T10:42:22.237Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="S858QNMWyKGsPU_rgsAV" version="14.8.2" type="github" pages="6">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -473,7 +473,7 @@
           <mxGeometry x="510" y="180" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LpDsMfAQ8d96Om6ljWsP-26" value="Inventory.js" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontSize=12;strokeColor=#000000;strokeWidth=1;fillColor=#FFFFFF;" vertex="1" parent="LpDsMfAQ8d96Om6ljWsP-1">
-          <mxGeometry x="355" y="320" width="145" height="60" as="geometry" />
+          <mxGeometry x="355" y="320" width="145" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
