@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-07T04:40:40.900Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="-sDplNtNy22_wgt5mAAl" version="14.8.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-07-07T05:02:17.058Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="Iv_Y0kEwPzsxtfU3cM3m" version="14.8.2" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -264,11 +264,25 @@
         <mxCell id="jytI_s6UmvzEolkszG9x-9" value="Header" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontSize=12;strokeWidth=1;fillColor=#FFFFFF;" vertex="1" parent="jytI_s6UmvzEolkszG9x-1">
           <mxGeometry x="420" y="50" width="270" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="jytI_s6UmvzEolkszG9x-13" style="edgeStyle=elbowEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;fontSize=12;" edge="1" parent="jytI_s6UmvzEolkszG9x-1" source="jytI_s6UmvzEolkszG9x-10" target="jytI_s6UmvzEolkszG9x-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="jytI_s6UmvzEolkszG9x-10" value="Inventory" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontSize=12;strokeWidth=1;fillColor=#FFFFFF;" vertex="1" parent="jytI_s6UmvzEolkszG9x-1">
           <mxGeometry x="425" y="90" width="265" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jytI_s6UmvzEolkszG9x-11" value="auth == true" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=12;" vertex="1" parent="jytI_s6UmvzEolkszG9x-1">
           <mxGeometry x="300" y="55" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jytI_s6UmvzEolkszG9x-14" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontSize=12;strokeColor=#000000;strokeWidth=1;fillColor=#FFFFFF;" vertex="1" parent="jytI_s6UmvzEolkszG9x-1">
+          <mxGeometry x="170" y="200" width="480" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="jytI_s6UmvzEolkszG9x-15" value="Inventory.js" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=12;" vertex="1" parent="jytI_s6UmvzEolkszG9x-1">
+          <mxGeometry x="360" y="210" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jytI_s6UmvzEolkszG9x-16" value="DashboardHeader.js" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontSize=12;strokeColor=#000000;strokeWidth=1;fillColor=#FFFFFF;" vertex="1" parent="jytI_s6UmvzEolkszG9x-1">
+          <mxGeometry x="210" y="240" width="400" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
