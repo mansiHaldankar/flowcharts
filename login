@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-07T09:46:05.677Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="IECaIa3bzbZQ91MyvLn2" version="14.8.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-07-07T09:54:16.683Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="j0YN8Zb-7G5Tghj451v_" version="14.8.2" type="github" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -391,11 +391,19 @@
         <mxCell id="SocZCL3oUANGVnrzEDUI-5" value="&lt;span&gt;setNavigation({selectedTab})&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=12;" vertex="1" parent="SocZCL3oUANGVnrzEDUI-1">
           <mxGeometry x="270" y="30" width="170" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="SocZCL3oUANGVnrzEDUI-10" style="edgeStyle=elbowEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;fontSize=12;" edge="1" parent="SocZCL3oUANGVnrzEDUI-1" source="SocZCL3oUANGVnrzEDUI-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="SocZCL3oUANGVnrzEDUI-6" value="NavigationAction.js" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;sketch=0;fontSize=12;strokeColor=#000000;strokeWidth=1;fillColor=#FFFFFF;" vertex="1" parent="SocZCL3oUANGVnrzEDUI-1">
           <mxGeometry x="460" y="29" width="140" height="52" as="geometry" />
         </mxCell>
         <mxCell id="SocZCL3oUANGVnrzEDUI-7" value="SET_NAVIGATION" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="SocZCL3oUANGVnrzEDUI-6">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="SocZCL3oUANGVnrzEDUI-11" value="NavigationReducer.js" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontSize=12;strokeColor=#000000;strokeWidth=1;fillColor=#FFFFFF;" vertex="1" parent="SocZCL3oUANGVnrzEDUI-1">
+          <mxGeometry x="460" y="130" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
