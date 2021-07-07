@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-07T05:25:42.432Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="WMA68fOEjaGEG5FTBaIa" version="14.8.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-07-07T05:26:23.088Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="hne-LmaVKb8Ttu4n6OuZ" version="14.8.2" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -306,8 +306,16 @@
         <mxCell id="jytI_s6UmvzEolkszG9x-26" value="false" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=12;" vertex="1" parent="jytI_s6UmvzEolkszG9x-1">
           <mxGeometry x="320" y="370" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="jytI_s6UmvzEolkszG9x-27" value="&lt;div style=&quot;font-family: &amp;#34;consolas&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 14px ; line-height: 19px&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;AssetCards&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontSize=12;strokeColor=#000000;strokeWidth=1;fillColor=#FFFFFF;" vertex="1" parent="jytI_s6UmvzEolkszG9x-1">
-          <mxGeometry x="255" y="400" width="120" height="40" as="geometry" />
+        <mxCell id="jytI_s6UmvzEolkszG9x-29" style="edgeStyle=elbowEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;fontSize=12;" edge="1" parent="jytI_s6UmvzEolkszG9x-1" source="jytI_s6UmvzEolkszG9x-27" target="jytI_s6UmvzEolkszG9x-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="315" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jytI_s6UmvzEolkszG9x-27" value="&lt;div style=&quot;font-family: &amp;#34;consolas&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 14px ; line-height: 19px&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;AssetCards.js&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontSize=12;strokeColor=#000000;strokeWidth=1;fillColor=#FFFFFF;" vertex="1" parent="jytI_s6UmvzEolkszG9x-1">
+          <mxGeometry x="255" y="400" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jytI_s6UmvzEolkszG9x-30" value="AssetCard.js" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontSize=12;strokeColor=#000000;strokeWidth=1;fillColor=#FFFFFF;" vertex="1" parent="jytI_s6UmvzEolkszG9x-1">
+          <mxGeometry x="255" y="480" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
